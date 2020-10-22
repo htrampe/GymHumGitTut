@@ -7,3 +7,4 @@ Eine neue Zeile
 Diese Zeile ist von Bob!
 
 Bob arbeitet hier unten weiter!
+Alice arbeitet hier weiter!git 
