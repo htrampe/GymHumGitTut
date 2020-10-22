@@ -3,3 +3,5 @@ Das hier ist Code von Alice!
 Eine neue Zeile
 
 Diese Zeile ist von Bob!
+
+Bob arbeitet hier unten weiter!
